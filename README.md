@@ -1,6 +1,6 @@
 ### Hi, I'm Shane 👋
 
-M.Sc. student in **Artificial Intelligence for Smart Sensors and Actuators** at Deggendorf Institute of Technology (Campus Cham, Germany), with a B.Sc. in Computer Science from Taiwan. I build practical AI and web applications, with a focus on **LLM apps that run on local models** so sensitive data stays on the machine.
+M.Sc. student in **Artificial Intelligence for Smart Sensors and Actuators** at Deggendorf Institute of Technology (Campus Cham, Germany), with a B.Sc. in Computer Science from National Sun Yat-sen University, Taiwan. I build practical AI and web applications, with a focus on **LLM apps that run on local models** so sensitive data stays on the machine.
 
 📍 Cham, Bavaria · 🗣️ Chinese, English, German (B1) · 🔎 Open to working-student roles, internships and a master's thesis in industry
 
