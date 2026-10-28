@@ -13,7 +13,6 @@ M.Sc. student in **Artificial Intelligence for Smart Sensors and Actuators** at 
 | [**taiwan-travel-rag**](https://github.com/shanetcy/taiwan-travel-rag) | RAG chatbot that answers only from your documents (txt/pdf/docx), cites its sources, runs on a local LLM via Ollama or on Groq | Python, LangChain, FAISS, multilingual E5, Gradio |
 | [**llm-agent-experiments**](https://github.com/shanetcy/llm-agent-experiments) | Reflection agent (writer → reviewer → rewrite) and a local persona chatbot behind one swappable LLM interface | Python, OpenAI API, Ollama, Gradio |
 | [**jizhang**](https://github.com/shanetcy/jizhang) | Offline-first expense-tracker PWA: multi-currency ledger plus a shared household budget that syncs between two phones and settles up automatically | React, TypeScript, Firebase, IndexedDB |
-| [**cocoqi**](https://github.com/shanetcy/cocoqi) | Responsive, accessible brand website for a Malaysian coconut-water product with WhatsApp ordering | HTML, CSS, JavaScript |
 
 #### Skills
 
